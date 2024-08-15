@@ -45,6 +45,5 @@
 <br clear="both">
 
 ![Snake animation](https://github.com/devsamuelsilva/devsamuelsilva/blob/output/github-contribution-grid-snake-dark.svg)
->>>>>>> 2793acd (teste)
 
 ###
