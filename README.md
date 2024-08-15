@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/gif/90f21y"  />
+<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:1280/format:webp/1*KRxVkzBIkf8WB9aW-fO3pg.gif"  />
 
 ###
 
@@ -45,8 +45,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/devsamuelsilva/devsamuelsilva/output/snake.svg" alt="Snake animation" />
 
