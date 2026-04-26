@@ -1,49 +1,92 @@
-<h2 align="left">Hi 👋! My name is Samuel Silva and I'm a WebDeveloper, from Brazil</h2>
+<h1 align="center">Hi 👋, I'm Samuel Silva</h1>
 
-###
+<h3 align="center">
+  Web Developer from Brazil 🇧🇷
+</h3>
 
-<br clear="both">
+<p align="center">
+  Passionate about technology, web development, automation and building useful digital solutions.
+</p>
+
+---
+
+## 🚀 About Me
+
+- 💻 I'm a Web Developer focused on modern web applications
+- 🌱 Currently improving my skills in **React, Node.js, TypeScript and PostgreSQL**
+- ⚙️ I enjoy building automations, dashboards and SaaS solutions
+- 🇧🇷 Based in Brazil
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devsamuelsilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=devsamuelsilva&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devsamuelsilva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+## 📊 GitHub Stats
+
+<div align="center">
+  <img 
+    height="160em" 
+    src="https://github-readme-stats.vercel.app/api?username=devsamuelsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" 
+    alt="Samuel Silva GitHub Stats" 
+  />
+  <img 
+    height="160em" 
+    src="https://streak-stats.demolab.com?user=devsamuelsilva&theme=dracula&hide_border=false&border_radius=5" 
+    alt="Samuel Silva GitHub Streak" 
+  />
 </div>
 
-###
+<br>
 
-<div align="left">
+<div align="center">
+  <img 
+    height="160em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsamuelsilva&layout=compact&langs_count=8&theme=dracula&hide_border=false" 
+    alt="Most Used Languages" 
+  />
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
   <a href="https://www.linkedin.com/in/samuel-silva-314263138/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/samucaaraujo21" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://www.instagram.com/samuca2106/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 
-###
+---
 
-<br clear="both">
+## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/devsamuelsilva/devsamuelsilva/blob/output/github-contribution-grid-snake-dark.svg)
-
-###
+<div align="center">
+  <img 
+    src="https://github.com/devsamuelsilva/devsamuelsilva/blob/output/github-contribution-grid-snake-dark.svg" 
+    alt="Snake animation" 
+  />
+</div>
