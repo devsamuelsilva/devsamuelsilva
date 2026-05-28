@@ -44,24 +44,10 @@
 <div align="center">
   <img 
     height="160em" 
-    src="https://github-readme-stats.vercel.app/api?username=devsamuelsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" 
-    alt="Samuel Silva GitHub Stats" 
-  />
-  <img 
-    height="160em" 
     src="https://streak-stats.demolab.com?user=devsamuelsilva&theme=dracula&hide_border=false&border_radius=5" 
     alt="Samuel Silva GitHub Streak" 
   />
 </div>
-
-<br>
-
-<div align="center">
-  <img 
-    height="160em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsamuelsilva&layout=compact&langs_count=8&theme=dracula&hide_border=false" 
-    alt="Most Used Languages" 
-  />
 </div>
 
 ---
